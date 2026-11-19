@@ -2,7 +2,7 @@
 
 # **Análise Bioestatística de Obesidade: Testes de Associação e Regressão Logística**
 
-Investigação estatística de fatores associados à classificação do estado nutricional
+Investigação estatística de fatores associados à classificação do estado nutricional de indivíduos
 
 <br>
 
